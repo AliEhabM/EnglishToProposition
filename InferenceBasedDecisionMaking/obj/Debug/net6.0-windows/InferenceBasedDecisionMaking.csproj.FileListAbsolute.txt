@@ -1,0 +1,17 @@
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\InferenceBasedDecisionMaking\bin\Debug\net6.0-windows\InferenceBasedDecisionMaking.exe
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\InferenceBasedDecisionMaking\bin\Debug\net6.0-windows\InferenceBasedDecisionMaking.deps.json
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\InferenceBasedDecisionMaking\bin\Debug\net6.0-windows\InferenceBasedDecisionMaking.runtimeconfig.json
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\InferenceBasedDecisionMaking\bin\Debug\net6.0-windows\InferenceBasedDecisionMaking.dll
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\InferenceBasedDecisionMaking\bin\Debug\net6.0-windows\InferenceBasedDecisionMaking.pdb
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\InferenceBasedDecisionMaking\obj\Debug\net6.0-windows\InferenceBasedDecisionMaking.csproj.AssemblyReference.cache
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\InferenceBasedDecisionMaking\obj\Debug\net6.0-windows\InferenceBasedDecisionMaking.Form1.resources
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\InferenceBasedDecisionMaking\obj\Debug\net6.0-windows\InferenceBasedDecisionMaking.csproj.GenerateResource.cache
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\InferenceBasedDecisionMaking\obj\Debug\net6.0-windows\InferenceBasedDecisionMaking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\InferenceBasedDecisionMaking\obj\Debug\net6.0-windows\InferenceBasedDecisionMaking.AssemblyInfoInputs.cache
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\InferenceBasedDecisionMaking\obj\Debug\net6.0-windows\InferenceBasedDecisionMaking.AssemblyInfo.cs
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\InferenceBasedDecisionMaking\obj\Debug\net6.0-windows\InferenceBasedDecisionMaking.csproj.CoreCompileInputs.cache
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\InferenceBasedDecisionMaking\obj\Debug\net6.0-windows\InferenceBasedDecisionMaking.dll
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\InferenceBasedDecisionMaking\obj\Debug\net6.0-windows\refint\InferenceBasedDecisionMaking.dll
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\InferenceBasedDecisionMaking\obj\Debug\net6.0-windows\InferenceBasedDecisionMaking.pdb
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\InferenceBasedDecisionMaking\obj\Debug\net6.0-windows\InferenceBasedDecisionMaking.genruntimeconfig.cache
+C:\Users\Dell-Note\Documents\2nd Year\easy\1\a\InferenceBasedDecisionMaking\obj\Debug\net6.0-windows\ref\InferenceBasedDecisionMaking.dll
